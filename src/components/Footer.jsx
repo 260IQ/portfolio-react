@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <footer>
       <p>Conectá conmigo:</p>
-      <a href="https://www.linkedin.com/in/tuusuario" target="_blank">LinkedIn</a> | 
-      <a href="https://github.com/tuusuario" target="_blank">GitHub</a>
+      <a href="https://www.instagram.com/franciscopalaciosok/" target="_blank">Instagram</a> | 
+      <a href="https://github.com/260IQ" target="_blank">GitHub</a>
     </footer>
   );
 };
