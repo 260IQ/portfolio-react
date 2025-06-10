@@ -1,7 +1,7 @@
 import React from 'react';
 
 const dataEstudios = [
-  { id: 1, titulo: "Tecnicatura en Programación", institucion: "UTN FRT", año: "2023 - Presente" },
+  { id: 1, titulo: "Tecnicatura en Programación", institucion: "UTN FRT", año: "2024 - Presente" },
   { id: 2, titulo: "Curso de React", institucion: "Coderhouse", año: "2024" }
 ];
 
