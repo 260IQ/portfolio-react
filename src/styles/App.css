@@ -6,7 +6,7 @@ box-sizing: border-box;
 
 body {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-background-color: #f2f2f2;
+background-color: #949494;
 color: #333;
 line-height: 1.6;
 }
@@ -20,7 +20,7 @@ padding: 2rem;
 
 
 header {
-background-color: #e6e6e6;
+background-color: #ffffff;
 text-align: center;
 padding: 3rem 1rem;
 border-bottom: 1px solid #ccc;
@@ -74,7 +74,7 @@ footer {
 text-align: center;
 font-size: 0.9rem;
 padding: 2rem 1rem;
-color: #666;
+color: #0e0e0e;
 border-top: 1px solid #ccc;
 }
 
