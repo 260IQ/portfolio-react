@@ -18,8 +18,6 @@ const Main = () => {
         <h2>Soft Skills</h2>
         <SoftSkills />
       </section>
-
-      {/* Más secciones: Proyectos, Experiencia, etc. */}
     </main>
   );
 };
